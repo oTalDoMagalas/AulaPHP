@@ -1,0 +1,18 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vmin;
+    margin: 0;
+    background-color: grey;
+}
+.message{
+    font-size: 2em;
+    color: black;
+    padding: 20px;
+    border: 2px solid #008080;
+    border-radius: 8px;
+    background-color: #e0ffff;
+    
+}
